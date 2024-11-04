@@ -8,5 +8,12 @@ header{
     padding: 20px; 
     font-size: 32px;
     color: blueviolet(42,122,228);
+}
 
+section{
+    background-color: rebeccapurple(117,112,112);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
 }
